@@ -100,36 +100,4 @@ https://example.com/path/to/live2d-widget/
 - `waifu.css` 是看板娘的样式表。
 
 源文件是对 Hexo 的 [NexT 主题](http://github.com/next-theme/hexo-theme-next)有效的，为了适用于你自己的网页，可能需要自行修改，或增加新内容。  
-**警告：作者不对包括但不限于 `waifu-tips.js` 和 `waifu-tips.json` 文件中的内容负责，请自行确保它们是合适的。**
 
-如果有任何疑问，欢迎提 Issue。如果有任何修改建议，欢迎提 Pull Request。
-
-
-
-<a href="https://www.browserstack.com/"><img height="80" src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack Logo"></a>
-
-> 感谢 BrowserStack 容许我们在真实的浏览器中测试此项目。  
-> Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
-
-<a href="https://www.jsdelivr.com"><img height="80" src="https://raw.githubusercontent.com/jsdelivr/jsdelivr-media/master/default/svg/jsdelivr-logo-horizontal.svg"></a>
-
-
-Live2D 官方网站：  
-https://www.live2d.com/en/  
-https://live2d.github.io
-
-Live2D Cubism Core は Live2D Proprietary Software License で提供しています。  
-https://www.live2d.com/eula/live2d-proprietary-software-license-agreement_en.html  
-Live2D Cubism Components は Live2D Open Software License で提供しています。  
-http://www.live2d.com/eula/live2d-open-software-license-agreement_en.html
-
-> The terms and conditions do prohibit modification, but obfuscating in `live2d.min.js` would not be considered illegal modification.
-
-https://community.live2d.com/discussion/140/webgl-developer-licence-and-javascript-question
-
-## 更新 Update
-
-2018年10月31日，由 fghrsh 提供的原 API 停用，请更新至新地址。参考文章：  
-https://www.fghrsh.net/post/170.html
-
-2020年1月1日起，本项目不再依赖于 jQuery。
